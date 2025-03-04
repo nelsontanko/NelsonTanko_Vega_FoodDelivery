@@ -5,7 +5,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-green)](https://spring.io/projects/spring-boot)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-'Foody' is a comprehensive backend food delivery platform built with Spring Boot. The application provides a robust API for managing restaurants, menu items, orders, user ratings, and comments.
+'Foody' is a comprehensive backend food delivery platform built with Spring Boot. The application provides a robust API for managing restaurants, menu items, orders, user ratings, and comments. Postman collection provided contains detailed documentation of the endpoints. 
 
 ## Table of Contents
 
