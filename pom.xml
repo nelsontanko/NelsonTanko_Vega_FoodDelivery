@@ -6,7 +6,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.4.3</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/> 
 	</parent>
 	<groupId>dev</groupId>
 	<artifactId>foody</artifactId>
@@ -431,5 +431,4 @@
             </properties>
         </profile>
     </profiles>
-
 </project>
